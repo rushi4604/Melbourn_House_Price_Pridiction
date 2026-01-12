@@ -3,14 +3,7 @@ A simple machine learning project that predicts house prices in Melbourne using 
 
 # 🏡 Melbourne House Price Prediction using Linear Regression
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Model](https://img.shields.io/badge/Model-Linear%20Regression-orange)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
 This project predicts housing prices in Melbourne using historical real estate data and Linear Regression.
-
----
 
 ## 📌 Overview
 
